@@ -16,12 +16,11 @@ init();
 
 async function init() {
   try {
-    setStatus("正在加载数据...");
     eggData = await loadEggData();
-    setStatus(`数据加载完成，共 ${eggData.length} 条记录。`);
+    setStatus("");
   } catch (error) {
     console.error(error);
-    setStatus("数据加载失败，请检查 data/eggs.csv 是否存在且格式正确。", true);
+    setStatus("", true);
   }
 }
 
