@@ -1,0 +1,29 @@
+README.md
+  d13dc0f386af6c55 2-46
+script.js
+  d13dc0f386af6c55 1-198
+index.html
+  d13dc0f386af6c55 1-118
+styles.css
+  d13dc0f386af6c55 1-511
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "87e53f61faa14c0dcfe21075f867f85e4b030b64",
+  "prompts": {
+    "d13dc0f386af6c55": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019db912-09e1-7c40-ac16-2b52ae51f182",
+        "model": "gpt-5.4"
+      },
+      "human_author": "xiaoming.ning",
+      "messages": [],
+      "total_additions": 1264,
+      "total_deletions": 392,
+      "accepted_lines": 872,
+      "overriden_lines": 0
+    }
+  }
+}
