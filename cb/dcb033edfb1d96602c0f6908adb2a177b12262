@@ -1,0 +1,23 @@
+script.js
+  d13dc0f386af6c55 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "cbdcb033edfb1d96602c0f6908adb2a177b12262",
+  "prompts": {
+    "d13dc0f386af6c55": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019db912-09e1-7c40-ac16-2b52ae51f182",
+        "model": "gpt-5.4"
+      },
+      "human_author": "xiaoming.ning",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 2,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
